@@ -1,4 +1,4 @@
-# account_dev
+# vue2-router2_dev
 
 > A Vue.js project
 
@@ -30,5 +30,7 @@ npm test
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 rm -rf node_modules/    # 删除已安装的模块
+
 npm cache clean         # 清除 npm 内部缓存
+
 sudo npm update -g npm  # 更新 npm
